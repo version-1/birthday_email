@@ -35,3 +35,4 @@ Use whatever gems, email providers, ActiveJob adapters, etc. you'd like to enabl
 1. Setup Postgres and Redis (if you haven't already)
 1. Implement the feature
 1. Open a pull request back to this repository
+ 
